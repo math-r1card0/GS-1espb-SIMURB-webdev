@@ -39,28 +39,22 @@ const Sobre = () => {
 
   const teamMembers = [
     {
-      name: 'Ana Silva',
-      role: 'Desenvolvedora Frontend',
-      image: '/team-1.jpg',
+      name: 'Matheus Ricardo',
+      role: 'Desenvolvedor Frontend',
+      image: '/public/blueSuit.jpg',
       bio: 'Especialista em React e UX/UI Design'
     },
     {
-      name: 'Carlos Santos',
+      name: 'Marcos Azuma',
       role: 'Desenvolvedor Backend',
-      image: '/team-2.jpg',
+      image: '/public/mAzumaPhoto.jpeg',
       bio: 'Expert em arquitetura de sistemas e APIs'
     },
     {
-      name: 'Marina Costa',
+      name: 'Filip Arnhold Outa',
       role: 'Data Scientist',
-      image: '/team-3.jpg',
+      image: '/public/filipPhoto.jpeg',
       bio: 'Análise de dados e Machine Learning'
-    },
-    {
-      name: 'Pedro Oliveira',
-      role: 'DevOps Engineer',
-      image: '/team-4.jpg',
-      bio: 'Infraestrutura e automação de processos'
     }
   ]
 
