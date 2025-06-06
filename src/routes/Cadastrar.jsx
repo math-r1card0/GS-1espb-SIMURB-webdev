@@ -2,6 +2,10 @@ import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Helmet } from 'react-helmet'
 
+// - Filip Arnhold Outa — RM: 559294
+// - Marcos Eduardo Hideyoshi Azuma — RM: 559883
+// - Matheus Ricardo Parreira da Silva — RM: 560099
+
 const Cadastrar = () => {
   const [currentStep, setCurrentStep] = useState(1)
   const [formData, setFormData] = useState({
