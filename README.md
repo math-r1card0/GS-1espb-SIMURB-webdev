@@ -52,7 +52,7 @@ projetogs/
 
 1. Clone o repositório:
    ```
-   git clone [URL_DO_REPOSITORIO]
+   git clone [https://github.com/math-r1card0/GS-1espb-SIMURB-webdev]
    ```
 2. Instale as dependências:
    ```
