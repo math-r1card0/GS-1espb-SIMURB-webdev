@@ -2,6 +2,10 @@ import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { Helmet } from 'react-helmet'
 
+// - Filip Arnhold Outa — RM: 559294
+// - Marcos Eduardo Hideyoshi Azuma — RM: 559883
+// - Matheus Ricardo Parreira da Silva — RM: 560099
+
 const Home = () => {
   const [currentSlide, setCurrentSlide] = useState(0)
   const [isVisible, setIsVisible] = useState(false)
